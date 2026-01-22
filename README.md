@@ -21,8 +21,6 @@ The project applies supervised learning techniques with an emphasis on model gen
 
 ### Algorithms Implemented
 - Decision Tree Classifier  
-- Logistic Regression  
-- Random Forest (for performance comparison)
 
 ---
 
